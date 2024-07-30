@@ -23,18 +23,19 @@ _Report Building:_ Developing reports by creating custom columns, summarizing da
 :white_check_mark: Sales Performance Report:
 
 - [Customer Net Sales Performance](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/Customer%20Net%20sales%20In%20India.pdf)
-- Market Performance vs Target
-- Division Level Report
-- Top 5 Country By Sales
-- Top 5 and Bottom 5 Products
-- Top 10 Products
+- [Market Performance vs Target](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/Market%20Performance.pdf)
+- [Division Level Report](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/Division%20Level%20Report.pdf)
+- [Top 5 Country By Sales](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/top%205%20countries%20with%20sales.pdf)
+- [Top 5 and Bottom 5 Products](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/top%205%20and%20bottom%205%20products.pdf)
+- [Top 10 Products](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/top%2010%20products.pdf)
 
 :white_check_mark: Profit and Loss Statement:
 
-- P & L Values
-- P & L by Fiscal Year and Months
-- New Product 2021
-- Gross Margin %
+- [P & L Values](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/P%20%26%20L%20values.pdf)
+- [P & L by Fiscal Year,Months](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/P%20%26%20L%20values%20of%20ALL%20years.pdf)
+- [P & L by Markets](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/P%20%26%20L%20By%20markers%20of%202021.pdf)
+- [New Product 2021](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/New%20products%20released%20on%202021.pdf)
+- [Gross Margin %](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/Gross%20Margin%20%25%20All%20years.pdf)
   
 :point_right: Technical Skills:
 
