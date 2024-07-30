@@ -22,7 +22,7 @@ _Report Building:_ Developing reports by creating custom columns, summarizing da
 
 :white_check_mark: Sales Performance Report:
 
-- Customer Net Sales Performance
+- [Customer Net Sales Performance](https://github.com/SOUJU07/Sales-and-Finance-Analytics-Using-Excel/blob/main/Customer%20Net%20sales%20In%20India.pdf)
 - Market Performance vs Target
 - Division Level Report
 - Top 5 Country By Sales
